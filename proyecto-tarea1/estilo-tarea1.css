@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(253, 193, 255);
+}
+#cabecera{
+    background-color: rgb(255, 149, 251);
+}
+#principal{
+    background-color: rgb(248, 109, 243);
+}
+.articulo{
+    background-color: rgb(250, 53, 244);
+    margin: 5px;
+    padding: 2em;
+}
+#pie{
+    text-align: center;
+    color:white;
+    border-style: solid;
+    border-width: medium;
+    border-color: white;
+}
